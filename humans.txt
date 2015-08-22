@@ -1,0 +1,15 @@
+# humanstxt.org
+
+The humans responsible & technology colophon
+
+## TEAM
+
+ - Potherca - web developer - [@potherca](https:/twitter.com/potherca)
+
+## TECHNOLOGY COLOPHON
+
+ - HTML5, CSS3
+ - [Bootstrap](http://getbootstrap.com/)
+ - [Jekyll](http://jekyllrb.com/)
+ - [jQuery](http://jquery.com/)
+ - [Newcomen](http://newcomen.github.io/)
