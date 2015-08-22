@@ -3,9 +3,9 @@
         {% for node in site.pages %}
             {% if node.url == '/404.html' %}
             {% elsif page.url == node.url %}
-                <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+                <li class="active"><a href="{{ site.baseurl }}{{node.url}}" class="active">{{node.title}}</a></li>
             {% else %}
-                <li><a href="{{node.url}}">{{node.title}}</a></li>
+                <li><a href="{{ site.baseurl }}{{node.url}}">{{node.title}}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
